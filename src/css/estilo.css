@@ -1,0 +1,224 @@
+* {
+    text-align: center;
+}
+
+body {
+    background-image: url('../img/as-belas-estrelas-brilhando-no-ceu-noturno.jpg');
+    background-size: contain;
+}
+
+h1 {
+    font-family: 'Press Start 2P';
+    margin-top: 50px;
+    border: outset;
+    border-color: rgb(66, 169, 238);
+    border-radius: 20px;
+    background-image: url('../img/8ee7e419c03e41cbf7a2b21776cc9a2a.jpg');
+    padding: 30px;
+    color: black;
+}
+
+.apresentacao {
+    font-family: 'Press Start 2P';
+    font-weight:bold;
+    color: rgb(26, 172, 240);
+    padding: 2px;
+    line-height: 40px;
+    font-size: x-large;
+    text-align: center;
+    letter-spacing: 6px;
+}
+
+.conteudo {
+    border: outset rgb(26, 172, 240);
+    border-width: 20px;
+    padding: 40px;
+    font-family: 'Playpen Sans';
+    color: rgb(26, 172, 240);
+    line-height: 40px;
+    font-size: x-large;
+    border-radius: 20px;
+    background-position: center;
+    background-repeat: repeat;
+    letter-spacing: 2px;
+    border-style: outset;
+}
+
+.level {
+    padding: 40px;
+    margin: 80px;
+    font-family: 'Playpen Sans';
+    color: white;
+    font-size: x-large;
+    background-image: url('../img/8b2f6e17fe068081554c00d4e56b309f.jpg');
+    background-position: center;
+    background-repeat: repeat;
+    align-items: center;
+}
+
+.estudo {
+    line-height: 40px;
+    font-family: 'Playpen Sans';
+    font-size: xx-large;
+
+}
+
+form {
+    border: outset rgb(26, 172, 240);
+    font-family: 'Playpen Sans';
+    font-size: large;
+    color: black;
+    background-image: url('../img/unruly-heroes-02.jpg');
+    background-position: center;
+    background-repeat: repeat;
+    max-width: 800px;
+    height: 450px;
+    padding: 40px 20px;
+    border-radius: 40px;
+    margin: 0 auto;
+}
+
+.input {
+    margin: 40px;
+    font-family: 'Press Start 2P';
+    border: solid black;
+    padding: 9px;
+    border-radius: 30px;
+    background-image: url('../img/unruly-heroes-02.jpg');
+    background-position: center;
+}
+
+form p {
+    margin: 20px;
+    line-height: 30px;
+    font-family: 'Press Start 2P';
+    border: solid black;
+    color: white;
+    padding: 12px;
+    border-radius: 30px;
+    background-color: black;
+}
+
+
+.mapa, #redes {
+    font-family: 'Press Start 2P';
+    color: white;
+    padding: 20px;
+    font-size: large;
+    letter-spacing: 3px;
+}
+
+nav ul {
+    font-family: 'Press Start 2P';
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    font-size: x-large;
+}
+
+a {
+    color: rgb(233, 73, 206);
+    text-decoration: none;
+    padding-bottom: 20px;
+}
+
+.level p {
+    border: solid black;
+    padding: 10px;
+    background-color: black;
+    font-family: 'Press Start 2P';
+    color: rgb(26, 172, 240);
+    border-radius: 20px;
+    text-align: center;
+    margin: 60px;
+    position: relative;
+    line-height: 40px;
+} 
+
+.level a img {
+    border: outset rgb(26, 172, 240);
+    background-color: black;
+    text-align: center;
+    border-radius: 10%;
+}
+
+.level {
+    max-width: 1200px;
+    height: 450px;
+    align-items: center;
+    text-align: center;
+    margin-left: 140px;
+    border-radius: 20px;
+}
+
+.start {
+    border: outset rgb(26, 172, 240);
+}
+
+a:hover {
+    color: rgb(0, 255, 13);
+}
+
+section ul {
+    list-style-type: none;
+}
+
+
+footer #redes img {
+    width: 40px;
+    height: 40px;
+    display: inline;
+    padding-top: 20px;
+}
+
+footer {
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
+
+nav a:hover {
+    color: blueviolet;
+}
+
+ul .cursos {
+    color: blue;
+}
+
+#copywrite {
+    font-family: 'Press Start 2P';
+    font-size: medium;
+    color: white;
+    font-size: x-large;
+    padding-top: 10px;
+}
+
+.enviar {
+    background-color: rgb(26, 172, 240);
+    font-size: large ;
+    cursor: pointer;
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    color: black;
+    font-family: 'Press Start 2P';
+}
+
+.video {
+    padding-top: 40px;
+}
+
+#projetos {
+    padding-bottom: 40px;
+}
+
+h2 {
+    border: outset pink;
+    background-color: black;
+    color: pink;
+    font-size: xx-large;
+    margin: 20px 180px;
+    padding: 12px;
+    border-radius: 20px;
+}
